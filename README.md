@@ -17,7 +17,11 @@
     An open source virtual hand-drawn style whiteboard. </br>
     Collaborative and end-to-end encrypted. </br>
   <br />
+    modifed for drive integration
   </h2>
+  <P>Find the work at <br>
+  https://excalidrive.vercel.app/
+  </P>
 </div>
 
 <br />
